@@ -25,7 +25,7 @@ Since this is test mode, the following cheat buttons are available:
 - `space`: remove all snake's blocks and return to length 1
 - `r`: pause the game
 
-## Execute
+## Compiling and execution
 
 The code was written to be compiled with Visual Studio, but if you wanna play the game without comiling the code, download the Snake.exe executable and double click on it.
 
