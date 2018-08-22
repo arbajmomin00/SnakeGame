@@ -3,13 +3,16 @@ Simple implementation of the famous Nokia Snake game in VB .NET
 
 In a 30x30 blocks window you start as a 5 blocks long snake and must use the arrow keys to navigate in the window and eat the white blocks that will randomly appear in the window. Everytime you eat a white block, the snake's length length increases by one.
 
-https://github.com/dario-marvin/SnakeGame/blob/master/snake0.png
+<p align="center">
+  <img src="https://github.com/dario-marvin/SnakeGame/blob/master/snake0.png">
+</p>
 
 If you collide with a wall you will reappear on the opposite side, however you must avoid running into your own body, or you will lose all the body you have cut yourself from. Try to eat the highest number of white block without reducing yourself!
 
 
-
-https://github.com/dario-marvin/SnakeGame/blob/master/snake0.png
+<p align="center">
+  <img src="https://github.com/dario-marvin/SnakeGame/blob/master/snake1.png">
+</p>
 
 Since this is test mode, the following cheat buttons are available:
 - `x`: slow down the snake
