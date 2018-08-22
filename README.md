@@ -27,11 +27,11 @@ Since this is test mode, the following cheat buttons are available:
 
 ## Compiling and execution
 
-The code was written to be compiled with Visual Studio, but if you wanna play the game without comiling the code, download the Snake.exe executable and double click on it.
+The code was written to be compiled with Visual Studio, but if you wanna play the game without compiling the code, download the Snake.exe executable and double click on it.
 
 ## Possible TODO in the future
 
 - Change the position of the white block after a certain time uneaten
 - Augment snake's speed at specific length (should the speed reduce if we lose the tail?)
-- Proper start screen 
+- Design and add a proper start screen end exit button (since you basically never die) 
 - More maps, like untouchable walls and labyrinths
