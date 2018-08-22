@@ -11,4 +11,4 @@ Since this is test mode, the following cheat buttons are available:
 - `c`: augment snake's length by one
 - `v`: diminish the snake's length by one
 - `space`: remove all snake's blocks and return to length 1
-- `r`: restart the game
+- `r`: pause the game
