@@ -12,7 +12,7 @@ In a 30x30 blocks window you start as a 5 blocks long snake and must use the arr
 If you collide with a wall you will reappear on the opposite side, however you must avoid running into your own body, or you will lose all the body you have cut yourself from. Try to eat the highest number of white block without reducing yourself!
 
 <p align="center">
-  <img src="https://github.com/dario-marvin/SnakeGame/blob/master/snake1.png">
+  <img src="https://github.com/dario-marvin/SnakeGame/blob/master/snake_gif.gif">
 </p>
 
 ## Cheats
