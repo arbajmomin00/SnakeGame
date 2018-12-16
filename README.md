@@ -1,5 +1,5 @@
 # SnakeGame
-Simple implementation of the famous Nokia Snake game in VB .NET
+Simple implementation of the famous Nokia game Snake in VB .NET
 
 ## Instructions
 
